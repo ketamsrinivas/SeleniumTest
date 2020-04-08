@@ -1,0 +1,16 @@
+Scenario 1:
+Step 1: Launch Application(Gmail)
+Step 2: verify Text on Gmail launching page
+Step 3: Enter valid Email id
+		verify the Error message in Firstname field and password field
+Step 4: Click on Next button
+Step 5: EnterValidPassword
+Step 6: Click on Next button
+Step 7: verify After login home screen
+Step 8: Click On compose button
+Step 9: Click on To-Address and enter Receipent name Starting letter Example 'K' or 'V'.
+Step 10: Select the first receiptent Email.
+Step 11: Click on Subject Enter "Smoke Test subject."
+Step 12: verify the Signature Text Format including name,Ph No.
+Step 13: Click on Send Button.
+
